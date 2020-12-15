@@ -1,6 +1,14 @@
 [![Header](banner2.png)](https://noorbuchi.netlify.app//)
 
-### Hello! I'm Noor <img src="wave.gif" width="25px"> <div style="text-align: right"> مرحبا! أنا نور</div>
+## <center> Hello! I'm Noor <img src="wave.gif" width="25px"> مرحبا! أنا نور</center>
+
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=dd4814&color=dd4814)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=0078d7&color=0078d7)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=blue)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=29BEB0&color=29BEB0)
+![](https://img.shields.io/badge/Tools-EC2-informational?style=flat&logo=amazon-aws&logoColor=FF9900&color=FF9900)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=0db7ed&color=0db7ed)
 
 <!--
 **noorbuchi/noorbuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
