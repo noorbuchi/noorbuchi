@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Header](banner2.png)](https://noorbuchi.netlify.app//)
+
+### Hello! I'm Noor <img src="wave.gif" width="25px"> <div style="text-align: right"> مرحبا! أنا نور</div>
 
 <!--
 **noorbuchi/noorbuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
