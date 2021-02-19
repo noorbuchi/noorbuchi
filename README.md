@@ -18,6 +18,8 @@ website](https://noorbuchi.netlify.app/) and reach out using [LinkedIn](https://
 
 ### 📈 Github Stats
 
+![](https://komarev.com/ghpvc/?username=noorbuchi&color=209ac9)
+
 [![Anurag's github
 stats](https://github-readme-stats.vercel.app/api?username=noorbuchi&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
