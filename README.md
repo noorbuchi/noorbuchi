@@ -10,11 +10,10 @@
 ![AWS-Badge](https://img.shields.io/badge/Tools-EC2-informational?style=flat&logo=amazon-aws&logoColor=FF9900&color=FF9900)
 ![Docker-Badge](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=0db7ed&color=0db7ed)
 
-I’m a student at Allegheny College majoring in Computer Science with a minor in
-Political Science. I’m currently looking for internships that help me develop
-new skills and work with others in the field. Please feel free to check out [my
+I’m a student at Allegheny College majoring in Computer Science with minors in
+Political Science and Mathematics. Feel free to check out [my
 website](https://noorbuchi.netlify.app/) and reach out using [LinkedIn](https://www.linkedin.com/in/noorbuchi/),
-[Twitter](https://twitter.com/BuchiNoor), or [Instagram](https://www.instagram.com/noor_buchi/).
+or [Instagram](https://www.instagram.com/noor_buchi/).
 
 ### 📈 Github Stats
 
