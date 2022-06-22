@@ -1,6 +1,6 @@
 [![Header](banner2.png)](https://noorbuchi.netlify.app//)
 
-## <center> Hello! I'm Noor <img src="wave.gif" width="25px"> مرحبا! أنا نور</center>
+## <center> Hello! I'm Noor. مرحبا! أنا نور</center>
 
 ![Ubuntu-Badge](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=dd4814&color=dd4814)
 ![VSCode-Badge](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=0078d7&color=0078d7)
