@@ -12,8 +12,7 @@
 
 I’m a student at Allegheny College majoring in Computer Science with minors in
 Political Science and Mathematics. Feel free to check out [my
-website](https://noorbuchi.netlify.app/) and reach out using [LinkedIn](https://www.linkedin.com/in/noorbuchi/),
-or [Instagram](https://www.instagram.com/noor_buchi/).
+website](https://noorbuchi.netlify.app/) and reach out using [LinkedIn](https://www.linkedin.com/in/noorbuchi/).
 
 ### 📈 Github Stats
 
