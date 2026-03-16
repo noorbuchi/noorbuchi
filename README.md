@@ -1,4 +1,4 @@
-[![Header](banner2.png)](https://noorbuchi.netlify.app//)
+<!-- [![Header](banner2.png)](https://noorbuchi.netlify.app//) -->
 
 ## <center> Hello! I'm Noor. مرحبا! أنا نور</center>
 
@@ -10,7 +10,7 @@
 ![AWS-Badge](https://img.shields.io/badge/Tools-EC2-informational?style=flat&logo=amazon-aws&logoColor=FF9900&color=FF9900)
 ![Docker-Badge](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=0db7ed&color=0db7ed)
 
-I’m a sotware engineer @NetApp and a computer science graduate from Allegheny College, PA. Feel free to check out [my
+I’m a Software Engineering masters student @Carnegie Mellon University, previous sotware engineer @NetApp and a computer science graduate from Allegheny College, PA. Feel free to check out [my
 website](https://noorbuchi.netlify.app/) and reach out using [LinkedIn](https://www.linkedin.com/in/noorbuchi/).
 
 ### 📈 Github Stats
