@@ -1,22 +1,42 @@
-<!-- [![Header](banner2.png)](https://noorbuchi.netlify.app//) -->
+## Hi, I'm Noor 👋
 
-## <center> Hello! I'm Noor. مرحبا! أنا نور</center>
+Software engineer focused on **systems & backend** - distributed storage, filesystems, and APIs.
+Carnegie Mellon MSE · previously a software engineer at NetApp.
 
-![Ubuntu-Badge](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=dd4814&color=dd4814)
-![VSCode-Badge](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=0078d7&color=0078d7)
-![Java-Badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=white)
-![Python-Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=blue)
-![Golang-Badge](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=29BEB0&color=29BEB0)
-![AWS-Badge](https://img.shields.io/badge/Tools-EC2-informational?style=flat&logo=amazon-aws&logoColor=FF9900&color=FF9900)
-![Docker-Badge](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=0db7ed&color=0db7ed)
+### What I'm up to
 
-I’m a Software Engineering masters student @Carnegie Mellon University, previous sotware engineer @NetApp and a computer science graduate from Allegheny College, PA. Feel free to check out [my
-website](https://noorbuchi.netlify.app/) and reach out using [LinkedIn](https://www.linkedin.com/in/noorbuchi/).
+- 🎓 Finishing my **M.S. in Software Engineering at Carnegie Mellon** (Dec 2026), with coursework in operating systems, storage, and computer systems.
+- 🛠️ Building low-level and backend systems in **C / C++ / Go / Python**.
+- 💬 Open to **backend & systems engineering** roles.
 
-### 📈 Github Stats
+### Tech I work with
 
-![](https://komarev.com/ghpvc/?username=noorbuchi&color=209ac9)
+| | |
+|---|---|
+| **Languages** | C, C++, Go, Python, JavaScript |
+| **Systems** | Linux, concurrency & multithreading, virtual memory, x86-64, filesystems / FUSE |
+| **Backend** | REST APIs, distributed systems, Docker, AWS, SQL |
+| **Tools** | Git, Perforce, React |
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noorbuchi&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+### Featured projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorbuchi&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+**Carnegie Mellon coursework** — these repositories aren't publicly posted; feel free to reach out if you'd like to view or access any of them:
+
+- **ramenOS** — An x86 kernel supporting process/thread management, priority-aware scheduling, and virtual memory.
+- **Knitter** — A multithreading library in C and x86 assembly with synchronization primitives (mutexes, condition variables, read/write locks, semaphores).
+- **CloudFS** — An S3-backed FUSE filesystem in C++ with snapshots, deduplication, and caching.
+- **myFTL** — A simulated flash translation layer in C++ with wear-leveling and write-amplification optimizations.
+- **Systems Labs (CSAPP)** — Core systems-programming labs in C and x86-64, including a custom dynamic memory allocator, a Unix shell, and a concurrent caching web proxy.
+
+**Open source &amp; personal:**
+
+- **[AFLuent](https://github.com/noorbuchi/AFLuent)** — Published spectrum-based fault-localization plugin for Pytest (undergraduate thesis).
+- **[PyGo Portfolio Tracker](https://github.com/noorbuchi/PyGo-Portfolio-Tracker)** — A stock-portfolio tracker in Go + Python with a Streamlit UI, shipped in Docker.
+- **[Cogitate](https://github.com/noorbuchi/cogitate_tool)** — A Python tool that mines GitHub repositories to analyze individual and team contributions.
+- **[B-Tree Visualiser](https://github.com/noorbuchi/2-3-B-Tree-Java)** — A 2-3 B-tree implementation in Java with insertion, deletion, and Graphviz-generated visualizations.
+
+### Reach me
+
+[![Website](https://img.shields.io/badge/Website-noorbuchi.netlify.app-209ac9?style=for-the-badge&logo=netlify&logoColor=white)](https://noorbuchi.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-noorbuchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noorbuchi/)
+[![Email](https://img.shields.io/badge/Email-noor.buchi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noor.buchi@gmail.com)
